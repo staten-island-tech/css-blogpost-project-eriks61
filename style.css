@@ -3,8 +3,15 @@ body{
 }
 
 .parent{
-margin: 10px 50px 20px;
+margin: 10px 350px 20px;
 text-align: center;
+image-orientation: center;
 background-color: antiquewhite;
 font-family: "trirong", serif;
+}
+.center{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50px;
 }
